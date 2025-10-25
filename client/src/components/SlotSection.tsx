@@ -1,20 +1,22 @@
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { useLocation } from 'wouter';
-import slot1 from '@assets/stock_images/slot_machine_casino__318bd3cf.jpg';
-import slot2 from '@assets/stock_images/slot_machine_casino__d5ab740e.jpg';
-import slot3 from '@assets/stock_images/slot_machine_casino__c57dc14a.jpg';
-import slot4 from '@assets/stock_images/slot_machine_casino__e2344fa8.jpg';
-import slot5 from '@assets/stock_images/slot_machine_casino__9c8ca6e0.jpg';
-import slot6 from '@assets/stock_images/slot_machine_casino__43426d2b.jpg';
-import slot7 from '@assets/stock_images/slot_machine_casino__366bea86.jpg';
-import slot8 from '@assets/stock_images/slot_machine_casino__11aae41b.jpg';
-import slot9 from '@assets/stock_images/casino_slot_game_neo_7042a6b4.jpg';
-import slot10 from '@assets/stock_images/casino_slot_game_neo_3cbab67e.jpg';
-import slot11 from '@assets/stock_images/casino_slot_game_neo_d784cc78.jpg';
-import slot12 from '@assets/stock_images/casino_slot_game_neo_6326d526.jpg';
-import slot13 from '@assets/stock_images/casino_slot_game_neo_0792c479.jpg';
-import slot14 from '@assets/stock_images/casino_slot_game_neo_d15586f4.jpg';
+import slot1 from '@assets/stock_images/slot_game_x7r2d9f.jpg';
+import slot2 from '@assets/stock_images/slot_game_a3k9p1t.jpg';
+import slot3 from '@assets/stock_images/slot_game_g5v8e2m.jpg';
+import slot4 from '@assets/stock_images/slot_game_p9b4t6z.jpg';
+import slot5 from '@assets/stock_images/slot_game_h1q7r3n.jpg';
+import slot6 from '@assets/stock_images/slot_game_z0c6u8y.jpg';
+import slot7 from '@assets/stock_images/slot_game_m4w2e9j.jpg';
+import slot8 from '@assets/stock_images/slot_game_v8n3s5r.jpg';
+import slot9 from '@assets/stock_images/slot_game_q2h5x1l.jpg';
+import slot10 from '@assets/stock_images/slot_game_k6d9a7g.jpg';
+import slot11 from '@assets/stock_images/slot_game_t3b8f4u.jpg';
+import slot12 from '@assets/stock_images/slot_game_s7p1v9e.jpg';
+import slot13 from '@assets/stock_images/slot_game_r9g2m6k.jpg';
+import slot14 from '@assets/stock_images/slot_game_e1w4t8p.jpg';
+import slot15 from '@assets/stock_images/slot_game_n5y3h7c.jpg';
+import slot16 from '@assets/stock_images/slot_game_u2z9a1d.jpg';
 
 interface SlotProvider {
   id: string;
@@ -55,7 +57,7 @@ const slotProviders: SlotProvider[] = [
   },
   {
     id: '7',
-    name: 'CWM',
+    name: 'GMW',
     image: slot7
   },
   {
@@ -90,8 +92,18 @@ const slotProviders: SlotProvider[] = [
   },
   {
     id: '14',
-    name: 'SPADEGAMING',
+    name: '5G GAMING',
     image: slot14
+  },
+  {
+    id: '15',
+    name: 'PLAYTECH',
+    image: slot15
+  },
+  {
+    id: '16',
+    name: 'RED TIGER',
+    image: slot16
   }
 ];
 
