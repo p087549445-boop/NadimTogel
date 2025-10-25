@@ -1,22 +1,22 @@
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { useLocation } from 'wouter';
-import slot1 from '@assets/stock_images/slot_game_x7r2d9f.jpg';
-import slot2 from '@assets/stock_images/slot_game_a3k9p1t.jpg';
-import slot3 from '@assets/stock_images/slot_game_g5v8e2m.jpg';
-import slot4 from '@assets/stock_images/slot_game_p9b4t6z.jpg';
-import slot5 from '@assets/stock_images/slot_game_h1q7r3n.jpg';
-import slot6 from '@assets/stock_images/slot_game_z0c6u8y.jpg';
-import slot7 from '@assets/stock_images/slot_game_m4w2e9j.jpg';
-import slot8 from '@assets/stock_images/slot_game_v8n3s5r.jpg';
-import slot9 from '@assets/stock_images/slot_game_q2h5x1l.jpg';
-import slot10 from '@assets/stock_images/slot_game_k6d9a7g.jpg';
-import slot11 from '@assets/stock_images/slot_game_t3b8f4u.jpg';
-import slot12 from '@assets/stock_images/slot_game_s7p1v9e.jpg';
-import slot13 from '@assets/stock_images/slot_game_r9g2m6k.jpg';
-import slot14 from '@assets/stock_images/slot_game_e1w4t8p.jpg';
-import slot15 from '@assets/stock_images/slot_game_n5y3h7c.jpg';
-import slot16 from '@assets/stock_images/slot_game_u2z9a1d.jpg';
+import slot1 from '@assets/stock_images/slot_game_x7r2d9f_1761403263483.jpg';
+import slot2 from '@assets/stock_images/slot_game_a3k9p1t_1761403262539.jpg';
+import slot3 from '@assets/stock_images/slot_game_g5v8e2m_1761403262695.jpg';
+import slot4 from '@assets/stock_images/slot_game_p9b4t6z_1761403263026.jpg';
+import slot5 from '@assets/stock_images/slot_game_h1q7r3n_1761403262767.jpg';
+import slot6 from '@assets/stock_images/slot_game_z0c6u8y_1761403263547.jpg';
+import slot7 from '@assets/stock_images/slot_game_m4w2e9j_1761403262892.jpg';
+import slot8 from '@assets/stock_images/slot_game_v8n3s5r_1761403263415.jpg';
+import slot9 from '@assets/stock_images/slot_game_q2h5x1l_1761403263085.jpg';
+import slot10 from '@assets/stock_images/slot_game_k6d9a7g_1761403262830.jpg';
+import slot11 from '@assets/stock_images/slot_game_t3b8f4u_1761403263270.jpg';
+import slot12 from '@assets/stock_images/slot_game_s7p1v9e_1761403263210.jpg';
+import slot13 from '@assets/stock_images/slot_game_r9g2m6k_1761403263145.jpg';
+import slot14 from '@assets/stock_images/slot_game_e1w4t8p_1761403262639.jpg';
+import slot15 from '@assets/stock_images/slot_game_n5y3h7c_1761403262960.jpg';
+import slot16 from '@assets/stock_images/slot_game_u2z9a1d_1761403263341.jpg';
 
 interface SlotProvider {
   id: string;
